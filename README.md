@@ -46,8 +46,7 @@ Project must meet these basic key feautres in order to make it into a playable g
   
 ## Program Test
 
-This is how the initial screen looks [Click here](https://github.com/HappyPillUSA/textGame/)!
-
+This is how the initial screen looks [Click here](https://github.com/HappyPillUSA/textGame/blob/master/initial.png)!
 
 ## License
 
